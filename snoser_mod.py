@@ -2,7 +2,7 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import time
-from colored import cprint # type: ignore
+from colored import cprint # @Gondon2289: ignore
 import os
 from pystyle import Anime, Colors, Colorate, Center
 
